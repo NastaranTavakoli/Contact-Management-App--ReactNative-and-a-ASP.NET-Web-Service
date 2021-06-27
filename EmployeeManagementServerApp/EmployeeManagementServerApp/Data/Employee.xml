@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Employee.xslt"?>
+<People>
+  <Employee Id="1">
+    <Name>John Smith</Name>
+    <Phone>02 9988 2211</Phone>
+    <DepartmentId>4</DepartmentId>
+    <Address>
+      <Street>1 Code Lane</Street>
+      <City>Javaville</City>
+      <State>NSW</State>
+      <ZIP>0100</ZIP>
+      <Country>Australia</Country>
+    </Address>
+  </Employee>
+  <Employee Id="2">
+    <Name>Sue White</Name>
+    <Phone>03 8899 2255</Phone>
+    <DepartmentId>2</DepartmentId>
+    <Address>
+      <Street>16 Bit Way</Street>
+      <City>Byte Cove</City>
+      <State>QLD</State>
+      <ZIP>1101</ZIP>
+      <Country>Australia</Country>
+    </Address>
+  </Employee>
+  <Employee Id="3">
+    <Name>Bob O’Bits</Name>
+    <Phone>05 7788 2255</Phone>
+    <DepartmentId>3</DepartmentId>
+    <Address>
+      <Street>8 Silicon Road</Street>
+      <City>Cloud Hills</City>
+      <State>VIC</State>
+      <ZIP>1001</ZIP>
+      <Country>Australia</Country>
+    </Address>
+  </Employee>
+  <Employee Id="4">
+    <Name>Mary Blue</Name>
+    <Phone>06 4455 9988</Phone>
+    <DepartmentId>2</DepartmentId>
+    <Address>
+      <Street>4 Processor Boulevard</Street>
+      <City>Appletson</City>
+      <State>NT</State>
+      <ZIP>1010</ZIP>
+      <Country>Australia</Country>
+    </Address>
+  </Employee>
+  <Employee Id="5">
+    <Name>Mick Green</Name>
+    <Phone>02 9988 1122</Phone>
+    <DepartmentId>3</DepartmentId>
+    <Address>
+      <Street>700 Bandwidth Street</Street>
+      <City>Bufferland</City>
+      <State>NSW</State>
+      <ZIP>0110</ZIP>
+      <Country>Australia</Country>
+    </Address>
+  </Employee>
+</People>

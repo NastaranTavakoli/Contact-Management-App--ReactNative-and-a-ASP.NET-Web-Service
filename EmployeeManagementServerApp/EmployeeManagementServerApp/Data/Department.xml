@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Department.xslt"?>
+<Departments>
+	<Department Id="0">
+    <Name>General</Name>
+  </Department>
+	<Department Id="1">
+    <Name>Information Technology</Name>
+  </Department>
+	<Department Id="2">
+    <Id>2</Id>
+    <Name>Accounting</Name>
+  </Department>
+	<Department Id="3">
+    <Name>Marketing</Name>
+  </Department>
+	<Department Id="4">
+    <Name>Human Resources</Name>
+  </Department>
+</Departments>
